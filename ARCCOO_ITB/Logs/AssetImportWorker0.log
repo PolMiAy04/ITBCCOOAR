@@ -186,3 +186,11 @@ Received Import Request.
 Start importing Assets/Alan 10 using Guid(3ca2f01d05bf26d4796b986bb13e59a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c24dffcd98b3ddd172c9d43bc523f55') in 0.002064 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 643.404455 seconds.
+  path: Assets/alan
+  artifactKey: Guid(3ca2f01d05bf26d4796b986bb13e59a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/alan using Guid(3ca2f01d05bf26d4796b986bb13e59a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11165bf1d70f1cbec3d54db06782dfcf') in 0.000610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
